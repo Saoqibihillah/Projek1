@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment
+venv/
+.env
+
+# Editor files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.log
